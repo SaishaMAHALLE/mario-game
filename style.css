@@ -1,0 +1,48 @@
+.heading{
+    width: 100%;
+    
+    
+}
+
+.mario_img{
+    width: 100%;
+}
+#start{
+    font-size: 25px;
+}
+
+.heading h3{
+    display: inline;
+    font-size: 30px;
+   
+}
+
+.heading button{
+    float: right;
+    font-size: 20px;
+}
+
+#status{
+    font-size: 25px;
+}
+
+#source_code{
+    background-color: red;
+    width: 25%;
+    color: white;
+}
+
+#space{
+    width: 90%;
+}
+
+.instructions{
+    display: inline-block;
+    width: 45%;
+}
+
+#hr{
+    width: 30%;
+    color: black;
+    font-weight: bold;
+}
